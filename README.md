@@ -17,4 +17,3 @@ streamlink https://poopballs.tv/videos/e0207f86-e8df-11ef-99fa-0242ac120005 best
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
