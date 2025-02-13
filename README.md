@@ -6,6 +6,14 @@ A [Streamlink](https://streamlink.gtihub.io/) plugin for [PoopBalls.tv](https://
 
 See the [Streamlink documentation](https://streamlink.github.io/latest/cli/plugin-sideloading.html) for how to sideload plugins.
 
+The following instructions assume that your Streamlink plugins directory is `~/.local/share/streamlink/plugins`.
+
+### Arch Linux
+```bash
+$ git clone https://github.com/kogasapls/streamlink-poopballstv.git streamlink-poopballstv
+$ ln -s "$(pwd)/streamlink-poopballstv/poopballstv.py" "~/.local/share/streamlink/plugins/poopballstv.py"
+```
+
 ## Usage
 
 The plugin does not have any options or support authentication.
