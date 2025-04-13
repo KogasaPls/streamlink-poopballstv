@@ -1,6 +1,6 @@
 # streamlink-poopballstv
 
-A [Streamlink](https://streamlink.gtihub.io/) plugin for [PoopBalls.tv](https://poopballs.tv/).
+A [Streamlink](https://streamlink.github.io/) plugin for [PoopBalls.tv](https://poopballs.tv/).
 
 ## Installation
 
